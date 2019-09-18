@@ -1,11 +1,7 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =9
-let g:netrw_dirhist_1='/Users/Huner/.vagrant.d/boxes/testcourse/virtualbox'
-let g:netrw_dirhist_2='/Users/Huner/work/amazings/app/models'
-let g:netrw_dirhist_3='/Users/Huner/work/amazings'
-let g:netrw_dirhist_4='/Users/Huner/.vim/bundle/ctrlp.vim'
-let g:netrw_dirhist_5='/Users/Huner/work'
-let g:netrw_dirhist_6='/Users/Huner/work/linda'
-let g:netrw_dirhist_7='/Users/Huner/work/linda/coolapp'
-let g:netrw_dirhist_8='/Users/Huner/work/linda/coolapp/app'
-let g:netrw_dirhist_9='/Users/Huner/work/linda/coolapp/app/controllers'
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/oguzhuner/work/outline/config/deploy'
+let g:netrw_dirhist_2='/Users/oguzhuner/work/outline/.git'
+let g:netrw_dirhist_3='/private/etc/paths.d'
+let g:netrw_dirhist_4='/Users/oguzhuner/work/codi-prototype/codi_app/static/js/all.js'
+let g:netrw_dirhist_5='/Users/oguzhuner/work/codi-prototype/codi_app/static/js/bundle/all.js'
